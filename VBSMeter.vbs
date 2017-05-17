@@ -29,7 +29,7 @@ Dim RPORT: RPORT = "443"
 'set ExitOnSession false
 'exploit -j
 
-'Then run: wscript.exe VBSMeter.js on Target
+'Then run: wscript.exe VBSMeter.vbs on Target
 
 Sub Debug(s)
 End Sub
