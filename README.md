@@ -6,7 +6,7 @@ ____   ______________  _________   _____          __
    \___/    |______  /_______  /\____|__  /\___  >__|  \___  >__|   
                    \/        \/         \/     \/          \/       
 ```
-### VBS Reversed TCP Meterpreter Stager - by Cn33liz 2017
+### VBScript Reversed TCP Meterpreter Stager - by Cn33liz 2017
 CSharp Meterpreter Stager build by Cn33liz and embedded within VBScript using DotNetToJScript from James Forshaw
 https://github.com/tyranid/DotNetToJScript
 
